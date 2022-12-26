@@ -51,6 +51,7 @@ Below are some features/mitigations that have been altered, if they contain a (P
 - [(P) Print Nightmare](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
 - [Remote Desktop](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Windows+Remote+Desktop)
 - [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) (_Possible Information Retrieval_)
+- [tweaks-folder](https://github.com/getggos/tweaks)
 
 ### **Debloated**
 
